@@ -1,0 +1,1269 @@
+2025-08-04 00:07:46,403 - INFO - Configuration loaded successfully.
+2025-08-04 00:07:47,173 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:07:47,179 - INFO - Bot is starting...
+2025-08-04 00:07:47,182 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:07:47,182 - INFO - Starting bot in polling mode...
+2025-08-04 00:07:47,579 - INFO - Start polling
+2025-08-04 00:07:47,767 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:07:59,548 - INFO - Update id=331454695 is handled. Duration 531 ms by bot id=8170384586
+2025-08-04 00:08:04,066 - INFO - Update id=331454696 is handled. Duration 183 ms by bot id=8170384586
+2025-08-04 00:12:35,672 - WARNING - Received SIGINT signal
+2025-08-04 00:12:35,684 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:12:35,684 - INFO - Polling stopped
+2025-08-04 00:13:16,929 - INFO - Configuration loaded successfully.
+2025-08-04 00:13:18,490 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:13:18,497 - INFO - Bot is starting...
+2025-08-04 00:13:18,500 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:13:18,500 - INFO - Starting bot in polling mode...
+2025-08-04 00:13:24,304 - INFO - Start polling
+2025-08-04 00:13:24,506 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:13:27,986 - INFO - Update id=331454698 is handled. Duration 381 ms by bot id=8170384586
+2025-08-04 00:13:29,629 - INFO - Update id=331454699 is handled. Duration 209 ms by bot id=8170384586
+2025-08-04 00:13:50,869 - WARNING - Received SIGINT signal
+2025-08-04 00:13:50,873 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:13:50,880 - INFO - Polling stopped
+2025-08-04 00:13:50,889 - WARNING - Received SIGINT signal
+2025-08-04 00:13:51,065 - WARNING - Received SIGINT signal
+2025-08-04 00:15:01,563 - INFO - Configuration loaded successfully.
+2025-08-04 00:15:02,439 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:15:02,446 - INFO - Bot is starting...
+2025-08-04 00:15:02,447 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:15:02,448 - INFO - Starting bot in polling mode...
+2025-08-04 00:15:02,973 - INFO - Start polling
+2025-08-04 00:15:03,090 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:15:05,954 - INFO - Update id=331454700 is handled. Duration 438 ms by bot id=8170384586
+2025-08-04 00:15:07,536 - INFO - Update id=331454701 is handled. Duration 203 ms by bot id=8170384586
+2025-08-04 00:18:17,483 - WARNING - Received SIGINT signal
+2025-08-04 00:18:17,484 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:18:17,485 - INFO - Polling stopped
+2025-08-04 00:18:17,710 - WARNING - Received SIGINT signal
+2025-08-04 00:18:29,299 - INFO - Configuration loaded successfully.
+2025-08-04 00:18:30,149 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:18:30,154 - INFO - Bot is starting...
+2025-08-04 00:18:30,154 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:18:30,155 - INFO - Starting bot in polling mode...
+2025-08-04 00:18:35,534 - INFO - Start polling
+2025-08-04 00:18:35,703 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:18:40,016 - INFO - Update id=331454703 is handled. Duration 426 ms by bot id=8170384586
+2025-08-04 00:18:41,630 - INFO - Update id=331454704 is handled. Duration 175 ms by bot id=8170384586
+2025-08-04 00:20:22,173 - WARNING - Received SIGINT signal
+2025-08-04 00:20:22,384 - WARNING - Received SIGINT signal
+2025-08-04 00:20:22,472 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:20:22,489 - INFO - Polling stopped
+2025-08-04 00:20:22,539 - WARNING - Received SIGINT signal
+2025-08-04 00:20:22,600 - WARNING - Received SIGINT signal
+2025-08-04 00:20:22,829 - WARNING - Received SIGINT signal
+2025-08-04 00:20:35,356 - INFO - Configuration loaded successfully.
+2025-08-04 00:20:36,303 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:20:36,305 - INFO - Bot is starting...
+2025-08-04 00:20:36,306 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:20:36,306 - INFO - Starting bot in polling mode...
+2025-08-04 00:20:36,985 - INFO - Start polling
+2025-08-04 00:20:37,186 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:20:39,701 - INFO - Update id=331454705 is handled. Duration 828 ms by bot id=8170384586
+2025-08-04 00:20:40,982 - INFO - Update id=331454706 is handled. Duration 177 ms by bot id=8170384586
+2025-08-04 00:22:59,300 - WARNING - Received SIGINT signal
+2025-08-04 00:22:59,302 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:22:59,302 - INFO - Polling stopped
+2025-08-04 00:22:59,466 - WARNING - Received SIGINT signal
+2025-08-04 00:23:11,130 - INFO - Configuration loaded successfully.
+2025-08-04 00:23:12,288 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:23:12,290 - INFO - Bot is starting...
+2025-08-04 00:23:12,292 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:23:12,293 - INFO - Starting bot in polling mode...
+2025-08-04 00:23:12,840 - INFO - Start polling
+2025-08-04 00:23:13,074 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:23:15,797 - INFO - Update id=331454707 is handled. Duration 640 ms by bot id=8170384586
+2025-08-04 00:23:17,565 - INFO - Update id=331454708 is handled. Duration 142 ms by bot id=8170384586
+2025-08-04 00:23:36,181 - WARNING - Received SIGINT signal
+2025-08-04 00:23:36,185 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:23:36,186 - INFO - Polling stopped
+2025-08-04 00:23:36,401 - WARNING - Received SIGINT signal
+2025-08-04 00:23:46,846 - INFO - Configuration loaded successfully.
+2025-08-04 00:23:47,568 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:23:47,571 - INFO - Bot is starting...
+2025-08-04 00:23:47,572 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:23:47,572 - INFO - Starting bot in polling mode...
+2025-08-04 00:23:48,140 - INFO - Start polling
+2025-08-04 00:23:48,334 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:23:51,452 - INFO - Update id=331454709 is handled. Duration 386 ms by bot id=8170384586
+2025-08-04 00:23:52,732 - INFO - Update id=331454710 is handled. Duration 203 ms by bot id=8170384586
+2025-08-04 00:25:49,312 - WARNING - Received SIGINT signal
+2025-08-04 00:25:49,343 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:25:49,346 - INFO - Polling stopped
+2025-08-04 00:25:49,571 - WARNING - Received SIGINT signal
+2025-08-04 00:26:11,134 - INFO - Configuration loaded successfully.
+2025-08-04 00:26:13,302 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:26:13,307 - INFO - Bot is starting...
+2025-08-04 00:26:13,311 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:26:13,312 - INFO - Starting bot in polling mode...
+2025-08-04 00:26:18,755 - INFO - Start polling
+2025-08-04 00:26:18,871 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:26:31,496 - INFO - Update id=331454711 is handled. Duration 427 ms by bot id=8170384586
+2025-08-04 00:26:32,931 - INFO - Update id=331454712 is handled. Duration 178 ms by bot id=8170384586
+2025-08-04 00:28:01,440 - WARNING - Received SIGINT signal
+2025-08-04 00:28:01,454 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:28:01,455 - INFO - Polling stopped
+2025-08-04 00:29:00,488 - INFO - Configuration loaded successfully.
+2025-08-04 00:29:01,289 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:29:01,297 - INFO - Bot is starting...
+2025-08-04 00:29:01,299 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:29:01,299 - INFO - Starting bot in polling mode...
+2025-08-04 00:29:02,117 - INFO - Start polling
+2025-08-04 00:29:02,235 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:29:04,121 - INFO - Update id=331454713 is handled. Duration 453 ms by bot id=8170384586
+2025-08-04 00:29:05,213 - INFO - Update id=331454714 is handled. Duration 233 ms by bot id=8170384586
+2025-08-04 00:29:07,221 - WARNING - Received SIGINT signal
+2025-08-04 00:29:07,222 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:29:07,222 - INFO - Polling stopped
+2025-08-04 00:29:07,433 - WARNING - Received SIGINT signal
+2025-08-04 00:31:09,013 - INFO - Configuration loaded successfully.
+2025-08-04 00:31:10,240 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:31:10,249 - INFO - Bot is starting...
+2025-08-04 00:31:10,249 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:31:10,250 - INFO - Starting bot in polling mode...
+2025-08-04 00:31:10,685 - INFO - Start polling
+2025-08-04 00:31:10,800 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:31:14,498 - INFO - Update id=331454716 is handled. Duration 474 ms by bot id=8170384586
+2025-08-04 00:31:16,297 - INFO - Update id=331454717 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 00:31:28,978 - WARNING - Received SIGINT signal
+2025-08-04 00:31:28,984 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:31:28,984 - INFO - Polling stopped
+2025-08-04 00:31:29,154 - WARNING - Received SIGINT signal
+2025-08-04 00:32:10,073 - INFO - Configuration loaded successfully.
+2025-08-04 00:32:10,706 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:32:10,712 - INFO - Bot is starting...
+2025-08-04 00:32:10,715 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:32:10,715 - INFO - Starting bot in polling mode...
+2025-08-04 00:32:11,140 - INFO - Start polling
+2025-08-04 00:32:11,351 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:32:13,871 - INFO - Update id=331454718 is handled. Duration 417 ms by bot id=8170384586
+2025-08-04 00:32:15,237 - INFO - Update id=331454719 is handled. Duration 205 ms by bot id=8170384586
+2025-08-04 00:32:26,236 - WARNING - Received SIGINT signal
+2025-08-04 00:32:26,240 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:32:26,244 - INFO - Polling stopped
+2025-08-04 00:32:37,019 - INFO - Configuration loaded successfully.
+2025-08-04 00:32:37,766 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:32:37,769 - INFO - Bot is starting...
+2025-08-04 00:32:37,770 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:32:37,770 - INFO - Starting bot in polling mode...
+2025-08-04 00:32:38,386 - INFO - Start polling
+2025-08-04 00:32:38,585 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:32:42,421 - INFO - Update id=331454720 is handled. Duration 421 ms by bot id=8170384586
+2025-08-04 00:32:43,601 - INFO - Update id=331454721 is handled. Duration 201 ms by bot id=8170384586
+2025-08-04 00:34:36,050 - WARNING - Received SIGINT signal
+2025-08-04 00:34:36,052 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:34:36,052 - INFO - Polling stopped
+2025-08-04 00:34:36,216 - WARNING - Received SIGINT signal
+2025-08-04 00:34:47,606 - INFO - Configuration loaded successfully.
+2025-08-04 00:34:48,455 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:34:48,457 - INFO - Bot is starting...
+2025-08-04 00:34:48,462 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:34:48,463 - INFO - Starting bot in polling mode...
+2025-08-04 00:34:54,117 - INFO - Start polling
+2025-08-04 00:34:54,236 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:34:57,996 - INFO - Update id=331454723 is handled. Duration 579 ms by bot id=8170384586
+2025-08-04 00:34:59,437 - INFO - Update id=331454724 is handled. Duration 231 ms by bot id=8170384586
+2025-08-04 00:36:12,497 - WARNING - Received SIGINT signal
+2025-08-04 00:36:12,506 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:36:12,506 - INFO - Polling stopped
+2025-08-04 00:36:12,650 - WARNING - Received SIGINT signal
+2025-08-04 00:36:24,438 - INFO - Configuration loaded successfully.
+2025-08-04 00:36:25,655 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:36:25,656 - INFO - Bot is starting...
+2025-08-04 00:36:25,657 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:36:25,657 - INFO - Starting bot in polling mode...
+2025-08-04 00:36:26,435 - INFO - Start polling
+2025-08-04 00:36:26,550 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:36:28,300 - INFO - Update id=331454725 is not handled. Duration 0 ms by bot id=8170384586
+2025-08-04 00:36:28,300 - ERROR - Cause exception while process update id=331454725 by bot id=8170384586
+TypeError: UserRegistrationMiddleware() takes no arguments
+Traceback (most recent call last):
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+TypeError: UserRegistrationMiddleware() takes no arguments
+2025-08-04 00:36:42,468 - WARNING - Received SIGINT signal
+2025-08-04 00:36:42,470 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:36:42,471 - INFO - Polling stopped
+2025-08-04 00:36:42,622 - WARNING - Received SIGINT signal
+2025-08-04 00:36:52,095 - INFO - Configuration loaded successfully.
+2025-08-04 00:36:52,737 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:36:52,739 - INFO - Bot is starting...
+2025-08-04 00:36:52,740 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:36:52,740 - INFO - Starting bot in polling mode...
+2025-08-04 00:36:53,263 - INFO - Start polling
+2025-08-04 00:36:53,467 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:36:58,522 - INFO - Update id=331454726 is not handled. Duration 16 ms by bot id=8170384586
+2025-08-04 00:36:58,522 - ERROR - Cause exception while process update id=331454726 by bot id=8170384586
+TypeError: 'user_id' is an invalid keyword argument for User
+Traceback (most recent call last):
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/middlewares/middlewares.py", line 17, in __call__
+    add_user(user_id, first_name, last_name, username)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/utils/utils.py", line 19, in add_user
+    user = User(user_id=user_id, first_name=first_name, last_name=last_name, username=username)
+  File "<string>", line 4, in __init__
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/sqlalchemy/orm/state.py", line 571, in _initialize_instance
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/sqlalchemy/orm/state.py", line 569, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/sqlalchemy/orm/decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+        "%r is an invalid keyword argument for %s" % (k, cls_.__name__)
+    )
+TypeError: 'user_id' is an invalid keyword argument for User
+2025-08-04 00:38:12,302 - WARNING - Received SIGINT signal
+2025-08-04 00:38:12,304 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:38:12,305 - INFO - Polling stopped
+2025-08-04 00:39:00,937 - INFO - Configuration loaded successfully.
+2025-08-04 00:39:01,996 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:39:02,005 - INFO - Bot is starting...
+2025-08-04 00:39:02,006 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:39:02,006 - INFO - Starting bot in polling mode...
+2025-08-04 00:39:07,517 - INFO - Start polling
+2025-08-04 00:39:07,636 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:39:09,905 - INFO - Update id=331454727 is not handled. Duration 33 ms by bot id=8170384586
+2025-08-04 00:39:09,905 - ERROR - Cause exception while process update id=331454727 by bot id=8170384586
+AttributeError: type object 'UserStates' has no attribute 'start_language'
+Traceback (most recent call last):
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/middlewares/middlewares.py", line 18, in __call__
+    set_user_state(user_id, UserStates.start_language.state)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'UserStates' has no attribute 'start_language'. Did you mean: 'set_language'?
+2025-08-04 00:39:28,347 - WARNING - Received SIGINT signal
+2025-08-04 00:39:28,353 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:39:28,354 - INFO - Polling stopped
+2025-08-04 00:39:40,062 - INFO - Configuration loaded successfully.
+2025-08-04 00:39:40,750 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:39:40,753 - INFO - Bot is starting...
+2025-08-04 00:39:40,754 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:39:40,754 - INFO - Starting bot in polling mode...
+2025-08-04 00:39:41,284 - INFO - Start polling
+2025-08-04 00:39:41,398 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:39:43,622 - INFO - Update id=331454728 is handled. Duration 367 ms by bot id=8170384586
+2025-08-04 00:39:44,963 - INFO - Update id=331454729 is handled. Duration 214 ms by bot id=8170384586
+2025-08-04 00:40:48,591 - WARNING - Received SIGINT signal
+2025-08-04 00:40:48,599 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:40:48,600 - INFO - Polling stopped
+2025-08-04 00:40:48,803 - WARNING - Received SIGINT signal
+2025-08-04 00:41:00,285 - INFO - Configuration loaded successfully.
+2025-08-04 00:41:01,054 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:41:01,056 - INFO - Bot is starting...
+2025-08-04 00:41:01,057 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:41:01,057 - INFO - Starting bot in polling mode...
+2025-08-04 00:41:01,705 - INFO - Start polling
+2025-08-04 00:41:01,818 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:41:05,168 - INFO - Update id=331454730 is handled. Duration 679 ms by bot id=8170384586
+2025-08-04 00:42:23,189 - WARNING - Received SIGINT signal
+2025-08-04 00:42:23,190 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:42:23,192 - INFO - Polling stopped
+2025-08-04 00:42:23,351 - WARNING - Received SIGINT signal
+2025-08-04 00:42:36,122 - INFO - Configuration loaded successfully.
+2025-08-04 00:42:37,001 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:42:37,004 - INFO - Bot is starting...
+2025-08-04 00:42:37,005 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:42:37,005 - INFO - Starting bot in polling mode...
+2025-08-04 00:42:37,953 - INFO - Start polling
+2025-08-04 00:42:38,168 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:42:59,129 - INFO - Update id=331454731 is handled. Duration 597 ms by bot id=8170384586
+2025-08-04 00:43:00,468 - INFO - Update id=331454732 is not handled. Duration 0 ms by bot id=8170384586
+2025-08-04 00:44:33,655 - WARNING - Received SIGINT signal
+2025-08-04 00:44:33,667 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:44:33,669 - INFO - Polling stopped
+2025-08-04 00:45:25,338 - INFO - Configuration loaded successfully.
+2025-08-04 00:45:26,724 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:45:26,734 - INFO - Bot is starting...
+2025-08-04 00:45:26,735 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:45:26,735 - INFO - Starting bot in polling mode...
+2025-08-04 00:45:27,181 - INFO - Start polling
+2025-08-04 00:45:27,300 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:48:40,631 - WARNING - Received SIGINT signal
+2025-08-04 00:48:41,301 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:48:41,316 - INFO - Polling stopped
+2025-08-04 00:51:00,906 - INFO - Configuration loaded successfully.
+2025-08-04 00:51:01,661 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:51:01,666 - INFO - Bot is starting...
+2025-08-04 00:51:01,667 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:51:01,667 - INFO - Starting bot in polling mode...
+2025-08-04 00:51:07,302 - INFO - Start polling
+2025-08-04 00:51:07,418 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:51:15,154 - INFO - Update id=331454734 is handled. Duration 481 ms by bot id=8170384586
+2025-08-04 00:51:17,656 - INFO - Update id=331454735 is not handled. Duration 0 ms by bot id=8170384586
+2025-08-04 00:52:10,890 - WARNING - Received SIGINT signal
+2025-08-04 00:52:10,900 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:52:10,901 - INFO - Polling stopped
+2025-08-04 00:52:23,439 - INFO - Configuration loaded successfully.
+2025-08-04 00:52:24,536 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:52:24,539 - INFO - Bot is starting...
+2025-08-04 00:52:24,539 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:52:24,539 - INFO - Starting bot in polling mode...
+2025-08-04 00:52:25,119 - INFO - Start polling
+2025-08-04 00:52:25,237 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:52:28,017 - INFO - Update id=331454736 is handled. Duration 467 ms by bot id=8170384586
+2025-08-04 00:52:30,750 - INFO - Update id=331454737 is not handled. Duration 0 ms by bot id=8170384586
+2025-08-04 00:52:35,464 - INFO - Update id=331454738 is not handled. Duration 2 ms by bot id=8170384586
+2025-08-04 00:52:37,649 - INFO - Update id=331454739 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 00:53:20,015 - WARNING - Received SIGINT signal
+2025-08-04 00:53:20,064 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:53:20,100 - INFO - Polling stopped
+2025-08-04 00:53:20,150 - WARNING - Received SIGINT signal
+2025-08-04 00:53:36,480 - INFO - Configuration loaded successfully.
+2025-08-04 00:53:37,848 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:53:37,851 - INFO - Bot is starting...
+2025-08-04 00:53:37,852 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:53:37,852 - INFO - Starting bot in polling mode...
+2025-08-04 00:53:38,622 - INFO - Start polling
+2025-08-04 00:53:38,850 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:53:41,638 - INFO - Update id=331454740 is handled. Duration 385 ms by bot id=8170384586
+2025-08-04 00:54:54,372 - WARNING - Received SIGINT signal
+2025-08-04 00:54:54,376 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:54:54,378 - INFO - Polling stopped
+2025-08-04 00:54:54,571 - WARNING - Received SIGINT signal
+2025-08-04 00:55:07,273 - INFO - Configuration loaded successfully.
+2025-08-04 00:55:08,205 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 00:55:08,210 - INFO - Bot is starting...
+2025-08-04 00:55:08,213 - INFO - Bot is running in POLLING mode.
+2025-08-04 00:55:08,214 - INFO - Starting bot in polling mode...
+2025-08-04 00:55:13,752 - INFO - Start polling
+2025-08-04 00:55:13,870 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 00:55:15,933 - INFO - Update id=331454742 is handled. Duration 592 ms by bot id=8170384586
+2025-08-04 00:55:19,266 - INFO - Update id=331454743 is not handled. Duration 0 ms by bot id=8170384586
+2025-08-04 01:09:59,828 - WARNING - Received SIGINT signal
+2025-08-04 01:09:59,990 - WARNING - Received SIGINT signal
+2025-08-04 01:10:00,075 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:10:00,095 - INFO - Polling stopped
+2025-08-04 01:10:00,275 - WARNING - Received SIGINT signal
+2025-08-04 01:10:00,335 - WARNING - Received SIGINT signal
+2025-08-04 01:10:17,504 - INFO - Configuration loaded successfully.
+2025-08-04 01:11:04,322 - INFO - Configuration loaded successfully.
+2025-08-04 01:11:05,283 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:11:05,285 - INFO - Bot is starting...
+2025-08-04 01:11:05,286 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:11:05,286 - INFO - Starting bot in polling mode...
+2025-08-04 01:11:05,919 - INFO - Start polling
+2025-08-04 01:11:06,040 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:11:13,710 - INFO - Update id=331454744 is handled. Duration 488 ms by bot id=8170384586
+2025-08-04 01:11:15,640 - INFO - Update id=331454745 is handled. Duration 307 ms by bot id=8170384586
+2025-08-04 01:11:16,622 - INFO - Update id=331454746 is handled. Duration 156 ms by bot id=8170384586
+2025-08-04 01:11:17,489 - INFO - Update id=331454747 is handled. Duration 149 ms by bot id=8170384586
+2025-08-04 01:11:18,133 - INFO - Update id=331454748 is handled. Duration 158 ms by bot id=8170384586
+2025-08-04 01:11:19,889 - INFO - Update id=331454749 is handled. Duration 153 ms by bot id=8170384586
+2025-08-04 01:11:21,136 - INFO - Update id=331454750 is handled. Duration 171 ms by bot id=8170384586
+2025-08-04 01:25:33,147 - WARNING - Received SIGINT signal
+2025-08-04 01:25:33,353 - WARNING - Received SIGINT signal
+2025-08-04 01:25:33,431 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:25:33,444 - INFO - Polling stopped
+2025-08-04 01:25:33,529 - WARNING - Received SIGINT signal
+2025-08-04 01:25:33,702 - WARNING - Received SIGINT signal
+2025-08-04 01:25:33,822 - WARNING - Received SIGINT signal
+2025-08-04 01:25:46,216 - INFO - Configuration loaded successfully.
+2025-08-04 01:25:48,408 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:25:48,413 - INFO - Bot is starting...
+2025-08-04 01:25:48,415 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:25:48,415 - INFO - Starting bot in polling mode...
+2025-08-04 01:25:54,119 - INFO - Start polling
+2025-08-04 01:25:54,324 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:25:57,840 - INFO - Update id=331454751 is handled. Duration 457 ms by bot id=8170384586
+2025-08-04 01:29:01,174 - WARNING - Received SIGINT signal
+2025-08-04 01:29:01,182 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:29:01,185 - INFO - Polling stopped
+2025-08-04 01:29:01,325 - WARNING - Received SIGINT signal
+2025-08-04 01:29:29,791 - INFO - Configuration loaded successfully.
+2025-08-04 01:29:30,509 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:29:30,516 - INFO - Bot is starting...
+2025-08-04 01:29:30,517 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:29:30,517 - INFO - Starting bot in polling mode...
+2025-08-04 01:29:36,053 - INFO - Start polling
+2025-08-04 01:29:36,212 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:29:41,882 - INFO - Update id=331454752 is handled. Duration 597 ms by bot id=8170384586
+2025-08-04 01:30:59,172 - WARNING - Received SIGINT signal
+2025-08-04 01:30:59,180 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:30:59,182 - INFO - Polling stopped
+2025-08-04 01:30:59,433 - WARNING - Received SIGINT signal
+2025-08-04 01:31:09,602 - INFO - Configuration loaded successfully.
+2025-08-04 01:31:11,235 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:31:11,239 - INFO - Bot is starting...
+2025-08-04 01:31:11,240 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:31:11,240 - INFO - Starting bot in polling mode...
+2025-08-04 01:31:11,952 - INFO - Start polling
+2025-08-04 01:31:12,068 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:31:27,254 - INFO - Update id=331454753 is handled. Duration 555 ms by bot id=8170384586
+2025-08-04 01:32:26,467 - WARNING - Received SIGINT signal
+2025-08-04 01:32:26,469 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:32:26,469 - INFO - Polling stopped
+2025-08-04 01:32:26,665 - WARNING - Received SIGINT signal
+2025-08-04 01:32:35,568 - INFO - Configuration loaded successfully.
+2025-08-04 01:32:36,270 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:32:36,273 - INFO - Bot is starting...
+2025-08-04 01:32:36,275 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:32:36,277 - INFO - Starting bot in polling mode...
+2025-08-04 01:32:36,769 - INFO - Start polling
+2025-08-04 01:32:36,905 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:32:40,587 - INFO - Update id=331454754 is handled. Duration 570 ms by bot id=8170384586
+2025-08-04 01:35:45,840 - WARNING - Received SIGINT signal
+2025-08-04 01:35:45,846 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:35:45,848 - INFO - Polling stopped
+2025-08-04 01:35:56,917 - INFO - Configuration loaded successfully.
+2025-08-04 01:35:57,819 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:35:57,821 - INFO - Bot is starting...
+2025-08-04 01:35:57,822 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:35:57,822 - INFO - Starting bot in polling mode...
+2025-08-04 01:35:58,352 - INFO - Start polling
+2025-08-04 01:35:58,466 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:36:01,431 - INFO - Update id=331454755 is handled. Duration 481 ms by bot id=8170384586
+2025-08-04 01:37:13,833 - WARNING - Received SIGINT signal
+2025-08-04 01:37:13,836 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:37:13,836 - INFO - Polling stopped
+2025-08-04 01:37:14,039 - WARNING - Received SIGINT signal
+2025-08-04 01:37:28,056 - INFO - Configuration loaded successfully.
+2025-08-04 01:37:28,954 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:37:28,961 - INFO - Bot is starting...
+2025-08-04 01:37:28,963 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:37:28,964 - INFO - Starting bot in polling mode...
+2025-08-04 01:37:34,550 - INFO - Start polling
+2025-08-04 01:37:34,670 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:37:37,689 - INFO - Update id=331454756 is handled. Duration 597 ms by bot id=8170384586
+2025-08-04 01:38:32,201 - INFO - Update id=331454757 is handled. Duration 146 ms by bot id=8170384586
+2025-08-04 01:39:22,441 - WARNING - Received SIGINT signal
+2025-08-04 01:39:22,448 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:39:22,449 - INFO - Polling stopped
+2025-08-04 01:39:22,603 - WARNING - Received SIGINT signal
+2025-08-04 01:39:31,872 - INFO - Configuration loaded successfully.
+2025-08-04 01:39:32,488 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 01:39:32,490 - INFO - Bot is starting...
+2025-08-04 01:39:32,490 - INFO - Bot is running in POLLING mode.
+2025-08-04 01:39:32,491 - INFO - Starting bot in polling mode...
+2025-08-04 01:39:32,985 - INFO - Start polling
+2025-08-04 01:39:33,287 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 01:39:36,570 - INFO - Update id=331454758 is handled. Duration 404 ms by bot id=8170384586
+2025-08-04 01:39:37,818 - INFO - Update id=331454759 is handled. Duration 139 ms by bot id=8170384586
+2025-08-04 01:39:39,215 - INFO - Update id=331454760 is handled. Duration 159 ms by bot id=8170384586
+2025-08-04 01:41:28,351 - INFO - Update id=331454761 is handled. Duration 168 ms by bot id=8170384586
+2025-08-04 01:41:29,671 - INFO - Update id=331454762 is handled. Duration 182 ms by bot id=8170384586
+2025-08-04 12:09:28,212 - INFO - Configuration loaded successfully.
+2025-08-04 12:09:28,568 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:09:28,570 - INFO - Bot is starting...
+2025-08-04 12:09:28,571 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:09:28,571 - INFO - Starting bot in polling mode...
+2025-08-04 12:09:28,939 - INFO - Start polling
+2025-08-04 12:09:29,208 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:09:34,570 - INFO - Update id=331454763 is not handled. Duration 42 ms by bot id=8170384586
+2025-08-04 12:09:34,571 - ERROR - Cause exception while process update id=331454763 by bot id=8170384586
+TypeError: get_translation() missing 1 required positional argument: 'language'
+Traceback (most recent call last):
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/.venv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dev/Desktop/think_well/think_well_bot/middlewares/middlewares.py", line 21, in __call__
+    get_translation('start_message'),
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+TypeError: get_translation() missing 1 required positional argument: 'language'
+2025-08-04 12:10:24,760 - WARNING - Received SIGINT signal
+2025-08-04 12:10:24,761 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:10:24,761 - INFO - Polling stopped
+2025-08-04 12:10:24,916 - WARNING - Received SIGINT signal
+2025-08-04 12:10:31,221 - INFO - Configuration loaded successfully.
+2025-08-04 12:10:31,535 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:10:31,537 - INFO - Bot is starting...
+2025-08-04 12:10:31,537 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:10:31,537 - INFO - Starting bot in polling mode...
+2025-08-04 12:10:32,005 - INFO - Start polling
+2025-08-04 12:10:32,139 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:10:33,496 - INFO - Update id=331454764 is handled. Duration 449 ms by bot id=8170384586
+2025-08-04 12:10:43,627 - INFO - Update id=331454765 is handled. Duration 176 ms by bot id=8170384586
+2025-08-04 12:10:46,020 - INFO - Update id=331454766 is handled. Duration 135 ms by bot id=8170384586
+2025-08-04 12:12:06,350 - WARNING - Received SIGINT signal
+2025-08-04 12:12:06,354 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:12:06,354 - INFO - Polling stopped
+2025-08-04 12:12:06,542 - WARNING - Received SIGINT signal
+2025-08-04 12:12:14,259 - INFO - Configuration loaded successfully.
+2025-08-04 12:12:14,708 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:12:14,710 - INFO - Bot is starting...
+2025-08-04 12:12:14,711 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:12:14,711 - INFO - Starting bot in polling mode...
+2025-08-04 12:12:15,090 - INFO - Start polling
+2025-08-04 12:12:15,201 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:12:16,611 - INFO - Update id=331454767 is handled. Duration 363 ms by bot id=8170384586
+2025-08-04 12:12:19,470 - INFO - Update id=331454768 is handled. Duration 199 ms by bot id=8170384586
+2025-08-04 12:12:21,579 - INFO - Update id=331454769 is handled. Duration 131 ms by bot id=8170384586
+2025-08-04 12:12:23,585 - INFO - Update id=331454770 is handled. Duration 188 ms by bot id=8170384586
+2025-08-04 12:13:27,434 - INFO - Update id=331454771 is handled. Duration 163 ms by bot id=8170384586
+2025-08-04 12:13:29,082 - INFO - Update id=331454772 is handled. Duration 132 ms by bot id=8170384586
+2025-08-04 12:13:30,076 - INFO - Update id=331454773 is handled. Duration 149 ms by bot id=8170384586
+2025-08-04 12:13:32,116 - INFO - Update id=331454774 is handled. Duration 348 ms by bot id=8170384586
+2025-08-04 12:14:07,595 - INFO - Update id=331454775 is handled. Duration 150 ms by bot id=8170384586
+2025-08-04 12:16:23,347 - WARNING - Received SIGINT signal
+2025-08-04 12:16:23,375 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:16:23,376 - INFO - Polling stopped
+2025-08-04 12:16:23,537 - WARNING - Received SIGINT signal
+2025-08-04 12:16:23,672 - WARNING - Received SIGINT signal
+2025-08-04 12:16:30,993 - INFO - Configuration loaded successfully.
+2025-08-04 12:16:31,440 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:16:31,442 - INFO - Bot is starting...
+2025-08-04 12:16:31,442 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:16:31,442 - INFO - Starting bot in polling mode...
+2025-08-04 12:16:32,130 - INFO - Start polling
+2025-08-04 12:16:32,242 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:16:35,039 - INFO - Update id=331454776 is handled. Duration 579 ms by bot id=8170384586
+2025-08-04 12:16:36,165 - INFO - Update id=331454777 is handled. Duration 157 ms by bot id=8170384586
+2025-08-04 12:16:37,813 - INFO - Update id=331454778 is handled. Duration 247 ms by bot id=8170384586
+2025-08-04 12:17:04,573 - WARNING - Received SIGINT signal
+2025-08-04 12:17:04,574 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:17:04,575 - INFO - Polling stopped
+2025-08-04 12:17:04,754 - WARNING - Received SIGINT signal
+2025-08-04 12:17:10,840 - INFO - Configuration loaded successfully.
+2025-08-04 12:17:11,182 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:17:11,184 - INFO - Bot is starting...
+2025-08-04 12:17:11,185 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:17:11,185 - INFO - Starting bot in polling mode...
+2025-08-04 12:17:11,690 - INFO - Start polling
+2025-08-04 12:17:12,052 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:17:14,714 - INFO - Update id=331454779 is handled. Duration 421 ms by bot id=8170384586
+2025-08-04 12:17:15,749 - INFO - Update id=331454780 is handled. Duration 139 ms by bot id=8170384586
+2025-08-04 12:17:18,437 - INFO - Update id=331454781 is handled. Duration 138 ms by bot id=8170384586
+2025-08-04 12:17:30,540 - WARNING - Received SIGINT signal
+2025-08-04 12:17:30,543 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:17:30,544 - INFO - Polling stopped
+2025-08-04 12:17:30,710 - WARNING - Received SIGINT signal
+2025-08-04 12:17:36,801 - INFO - Configuration loaded successfully.
+2025-08-04 12:17:37,125 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:17:37,126 - INFO - Bot is starting...
+2025-08-04 12:17:37,127 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:17:37,127 - INFO - Starting bot in polling mode...
+2025-08-04 12:17:37,659 - INFO - Start polling
+2025-08-04 12:17:37,765 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:17:40,459 - INFO - Update id=331454782 is handled. Duration 426 ms by bot id=8170384586
+2025-08-04 12:17:41,279 - INFO - Update id=331454783 is handled. Duration 154 ms by bot id=8170384586
+2025-08-04 12:17:43,418 - INFO - Update id=331454784 is handled. Duration 135 ms by bot id=8170384586
+2025-08-04 12:18:00,716 - WARNING - Received SIGINT signal
+2025-08-04 12:18:00,717 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:18:00,718 - INFO - Polling stopped
+2025-08-04 12:18:00,883 - WARNING - Received SIGINT signal
+2025-08-04 12:18:06,110 - INFO - Configuration loaded successfully.
+2025-08-04 12:18:06,441 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:18:06,443 - INFO - Bot is starting...
+2025-08-04 12:18:06,444 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:18:06,444 - INFO - Starting bot in polling mode...
+2025-08-04 12:18:06,974 - INFO - Start polling
+2025-08-04 12:18:07,081 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:18:09,140 - INFO - Update id=331454785 is handled. Duration 443 ms by bot id=8170384586
+2025-08-04 12:18:10,151 - INFO - Update id=331454786 is handled. Duration 136 ms by bot id=8170384586
+2025-08-04 12:18:37,555 - WARNING - Received SIGINT signal
+2025-08-04 12:18:37,557 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:18:37,557 - INFO - Polling stopped
+2025-08-04 12:20:09,605 - INFO - Configuration loaded successfully.
+2025-08-04 12:20:09,931 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:20:09,932 - INFO - Bot is starting...
+2025-08-04 12:20:09,933 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:20:09,933 - INFO - Starting bot in polling mode...
+2025-08-04 12:20:10,302 - INFO - Start polling
+2025-08-04 12:20:10,407 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:20:11,660 - INFO - Update id=331454787 is handled. Duration 430 ms by bot id=8170384586
+2025-08-04 12:20:13,322 - INFO - Update id=331454788 is handled. Duration 377 ms by bot id=8170384586
+2025-08-04 12:21:18,476 - WARNING - Received SIGINT signal
+2025-08-04 12:21:18,477 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:21:18,477 - INFO - Polling stopped
+2025-08-04 12:21:18,654 - WARNING - Received SIGINT signal
+2025-08-04 12:21:24,863 - INFO - Configuration loaded successfully.
+2025-08-04 12:21:25,177 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:21:25,178 - INFO - Bot is starting...
+2025-08-04 12:21:25,179 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:21:25,179 - INFO - Starting bot in polling mode...
+2025-08-04 12:21:30,648 - INFO - Start polling
+2025-08-04 12:21:30,857 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:21:32,519 - INFO - Update id=331454790 is handled. Duration 422 ms by bot id=8170384586
+2025-08-04 12:21:33,727 - INFO - Update id=331454791 is handled. Duration 208 ms by bot id=8170384586
+2025-08-04 12:21:44,669 - INFO - Update id=331454792 is handled. Duration 134 ms by bot id=8170384586
+2025-08-04 12:23:16,967 - WARNING - Received SIGINT signal
+2025-08-04 12:23:16,968 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:23:16,969 - INFO - Polling stopped
+2025-08-04 12:23:17,126 - WARNING - Received SIGINT signal
+2025-08-04 12:23:24,622 - INFO - Configuration loaded successfully.
+2025-08-04 12:23:24,936 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:23:24,938 - INFO - Bot is starting...
+2025-08-04 12:23:24,938 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:23:24,939 - INFO - Starting bot in polling mode...
+2025-08-04 12:23:25,498 - INFO - Start polling
+2025-08-04 12:23:25,697 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:23:30,116 - INFO - Update id=331454793 is handled. Duration 468 ms by bot id=8170384586
+2025-08-04 12:23:31,392 - INFO - Update id=331454794 is handled. Duration 161 ms by bot id=8170384586
+2025-08-04 12:23:35,001 - INFO - Update id=331454795 is handled. Duration 159 ms by bot id=8170384586
+2025-08-04 12:23:57,816 - WARNING - Received SIGINT signal
+2025-08-04 12:23:57,817 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:23:57,817 - INFO - Polling stopped
+2025-08-04 12:23:57,992 - WARNING - Received SIGINT signal
+2025-08-04 12:24:05,219 - INFO - Configuration loaded successfully.
+2025-08-04 12:24:05,538 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:24:05,540 - INFO - Bot is starting...
+2025-08-04 12:24:05,541 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:24:05,541 - INFO - Starting bot in polling mode...
+2025-08-04 12:24:05,883 - INFO - Start polling
+2025-08-04 12:24:05,988 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:24:10,560 - INFO - Update id=331454796 is handled. Duration 426 ms by bot id=8170384586
+2025-08-04 12:24:11,657 - INFO - Update id=331454797 is handled. Duration 140 ms by bot id=8170384586
+2025-08-04 12:24:14,669 - INFO - Update id=331454798 is handled. Duration 135 ms by bot id=8170384586
+2025-08-04 12:26:07,340 - WARNING - Received SIGINT signal
+2025-08-04 12:26:07,358 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:26:07,359 - INFO - Polling stopped
+2025-08-04 12:26:07,497 - WARNING - Received SIGINT signal
+2025-08-04 12:26:26,705 - INFO - Configuration loaded successfully.
+2025-08-04 12:26:28,307 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:26:28,309 - INFO - Bot is starting...
+2025-08-04 12:26:28,309 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:26:28,309 - INFO - Starting bot in polling mode...
+2025-08-04 12:26:33,944 - INFO - Start polling
+2025-08-04 12:26:34,148 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:26:35,878 - INFO - Update id=331454799 is handled. Duration 371 ms by bot id=8170384586
+2025-08-04 12:26:37,641 - INFO - Update id=331454800 is handled. Duration 140 ms by bot id=8170384586
+2025-08-04 12:26:40,241 - INFO - Update id=331454801 is handled. Duration 129 ms by bot id=8170384586
+2025-08-04 12:29:15,246 - WARNING - Received SIGINT signal
+2025-08-04 12:29:15,249 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:29:15,249 - INFO - Polling stopped
+2025-08-04 12:29:15,422 - WARNING - Received SIGINT signal
+2025-08-04 12:29:21,355 - INFO - Configuration loaded successfully.
+2025-08-04 12:29:21,780 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:29:21,782 - INFO - Bot is starting...
+2025-08-04 12:29:21,782 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:29:21,782 - INFO - Starting bot in polling mode...
+2025-08-04 12:29:22,640 - INFO - Start polling
+2025-08-04 12:29:22,843 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:29:26,359 - INFO - Update id=331454802 is handled. Duration 1000 ms by bot id=8170384586
+2025-08-04 12:29:27,780 - INFO - Update id=331454803 is handled. Duration 384 ms by bot id=8170384586
+2025-08-04 12:29:30,799 - INFO - Update id=331454804 is handled. Duration 165 ms by bot id=8170384586
+2025-08-04 12:32:26,099 - WARNING - Received SIGINT signal
+2025-08-04 12:32:26,115 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:32:26,116 - INFO - Polling stopped
+2025-08-04 12:32:26,259 - WARNING - Received SIGINT signal
+2025-08-04 12:32:32,595 - INFO - Configuration loaded successfully.
+2025-08-04 12:32:33,110 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:32:33,112 - INFO - Bot is starting...
+2025-08-04 12:32:33,112 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:32:33,112 - INFO - Starting bot in polling mode...
+2025-08-04 12:32:33,533 - INFO - Start polling
+2025-08-04 12:32:33,738 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:32:35,824 - INFO - Update id=331454805 is handled. Duration 580 ms by bot id=8170384586
+2025-08-04 12:32:36,978 - INFO - Update id=331454806 is handled. Duration 207 ms by bot id=8170384586
+2025-08-04 12:32:39,165 - INFO - Update id=331454807 is handled. Duration 234 ms by bot id=8170384586
+2025-08-04 12:34:51,290 - WARNING - Received SIGINT signal
+2025-08-04 12:34:51,295 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:34:51,296 - INFO - Polling stopped
+2025-08-04 12:34:51,488 - WARNING - Received SIGINT signal
+2025-08-04 12:34:57,563 - INFO - Configuration loaded successfully.
+2025-08-04 12:34:57,985 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:34:57,988 - INFO - Bot is starting...
+2025-08-04 12:34:57,989 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:34:57,989 - INFO - Starting bot in polling mode...
+2025-08-04 12:34:58,511 - INFO - Start polling
+2025-08-04 12:34:58,715 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:35:02,448 - INFO - Update id=331454808 is handled. Duration 629 ms by bot id=8170384586
+2025-08-04 12:35:03,459 - INFO - Update id=331454809 is handled. Duration 163 ms by bot id=8170384586
+2025-08-04 12:35:06,252 - INFO - Update id=331454810 is handled. Duration 164 ms by bot id=8170384586
+2025-08-04 12:35:22,147 - INFO - Update id=331454811 is handled. Duration 184 ms by bot id=8170384586
+2025-08-04 12:53:52,319 - WARNING - Received SIGINT signal
+2025-08-04 12:53:52,336 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:53:52,337 - INFO - Polling stopped
+2025-08-04 12:53:52,472 - WARNING - Received SIGINT signal
+2025-08-04 12:54:00,921 - INFO - Configuration loaded successfully.
+2025-08-04 12:54:01,404 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:54:01,405 - INFO - Bot is starting...
+2025-08-04 12:54:01,406 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:54:01,406 - INFO - Starting bot in polling mode...
+2025-08-04 12:54:06,755 - INFO - Start polling
+2025-08-04 12:54:06,861 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:54:09,437 - INFO - Update id=331454812 is handled. Duration 509 ms by bot id=8170384586
+2025-08-04 12:54:10,455 - INFO - Update id=331454813 is handled. Duration 148 ms by bot id=8170384586
+2025-08-04 12:54:13,296 - INFO - Update id=331454814 is handled. Duration 182 ms by bot id=8170384586
+2025-08-04 12:55:48,022 - WARNING - Received SIGINT signal
+2025-08-04 12:55:48,026 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:55:48,026 - INFO - Polling stopped
+2025-08-04 12:55:48,171 - WARNING - Received SIGINT signal
+2025-08-04 12:55:53,466 - INFO - Configuration loaded successfully.
+2025-08-04 12:55:53,822 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:55:53,823 - INFO - Bot is starting...
+2025-08-04 12:55:53,824 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:55:53,824 - INFO - Starting bot in polling mode...
+2025-08-04 12:55:59,413 - INFO - Start polling
+2025-08-04 12:55:59,624 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:56:00,805 - INFO - Update id=331454815 is handled. Duration 525 ms by bot id=8170384586
+2025-08-04 12:56:01,834 - INFO - Update id=331454816 is handled. Duration 198 ms by bot id=8170384586
+2025-08-04 12:56:03,870 - INFO - Update id=331454817 is handled. Duration 154 ms by bot id=8170384586
+2025-08-04 12:56:58,000 - WARNING - Received SIGINT signal
+2025-08-04 12:56:58,001 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:56:58,002 - INFO - Polling stopped
+2025-08-04 12:56:58,177 - WARNING - Received SIGINT signal
+2025-08-04 12:57:07,219 - INFO - Configuration loaded successfully.
+2025-08-04 12:57:07,533 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:57:07,534 - INFO - Bot is starting...
+2025-08-04 12:57:07,535 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:57:07,535 - INFO - Starting bot in polling mode...
+2025-08-04 12:57:12,885 - INFO - Start polling
+2025-08-04 12:57:12,991 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:57:13,469 - INFO - Update id=331454820 is handled. Duration 368 ms by bot id=8170384586
+2025-08-04 12:57:16,354 - INFO - Update id=331454821 is handled. Duration 134 ms by bot id=8170384586
+2025-08-04 12:57:17,891 - INFO - Update id=331454822 is handled. Duration 227 ms by bot id=8170384586
+2025-08-04 12:57:20,583 - INFO - Update id=331454823 is handled. Duration 174 ms by bot id=8170384586
+2025-08-04 12:57:40,694 - INFO - Update id=331454824 is handled. Duration 167 ms by bot id=8170384586
+2025-08-04 12:57:43,289 - INFO - Update id=331454825 is handled. Duration 144 ms by bot id=8170384586
+2025-08-04 12:57:47,776 - INFO - Update id=331454826 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 12:57:53,087 - INFO - Update id=331454827 is handled. Duration 476 ms by bot id=8170384586
+2025-08-04 12:57:56,820 - INFO - Update id=331454828 is handled. Duration 257 ms by bot id=8170384586
+2025-08-04 12:57:58,278 - INFO - Update id=331454829 is handled. Duration 155 ms by bot id=8170384586
+2025-08-04 12:58:01,533 - INFO - Update id=331454830 is handled. Duration 162 ms by bot id=8170384586
+2025-08-04 12:59:03,451 - WARNING - Received SIGINT signal
+2025-08-04 12:59:03,452 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:59:03,453 - INFO - Polling stopped
+2025-08-04 12:59:03,645 - WARNING - Received SIGINT signal
+2025-08-04 12:59:09,377 - INFO - Configuration loaded successfully.
+2025-08-04 12:59:09,690 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 12:59:09,692 - INFO - Bot is starting...
+2025-08-04 12:59:09,692 - INFO - Bot is running in POLLING mode.
+2025-08-04 12:59:09,692 - INFO - Starting bot in polling mode...
+2025-08-04 12:59:10,314 - INFO - Start polling
+2025-08-04 12:59:10,425 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 12:59:13,225 - INFO - Update id=331454831 is handled. Duration 577 ms by bot id=8170384586
+2025-08-04 12:59:14,435 - INFO - Update id=331454832 is handled. Duration 232 ms by bot id=8170384586
+2025-08-04 12:59:15,551 - INFO - Update id=331454833 is handled. Duration 146 ms by bot id=8170384586
+2025-08-04 12:59:16,998 - INFO - Update id=331454834 is handled. Duration 246 ms by bot id=8170384586
+2025-08-04 12:59:18,221 - INFO - Update id=331454835 is handled. Duration 151 ms by bot id=8170384586
+2025-08-04 12:59:19,855 - INFO - Update id=331454836 is handled. Duration 144 ms by bot id=8170384586
+2025-08-04 13:02:31,936 - WARNING - Received SIGINT signal
+2025-08-04 13:02:31,947 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:02:31,948 - INFO - Polling stopped
+2025-08-04 13:02:32,115 - WARNING - Received SIGINT signal
+2025-08-04 13:02:40,797 - INFO - Configuration loaded successfully.
+2025-08-04 13:02:41,389 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:02:41,391 - INFO - Bot is starting...
+2025-08-04 13:02:41,392 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:02:41,392 - INFO - Starting bot in polling mode...
+2025-08-04 13:02:47,246 - INFO - Start polling
+2025-08-04 13:02:47,356 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:02:57,110 - INFO - Update id=331454837 is handled. Duration 556 ms by bot id=8170384586
+2025-08-04 13:03:00,680 - INFO - Update id=331454838 is handled. Duration 406 ms by bot id=8170384586
+2025-08-04 13:03:04,584 - INFO - Update id=331454839 is handled. Duration 217 ms by bot id=8170384586
+2025-08-04 13:03:10,404 - INFO - Update id=331454840 is handled. Duration 301 ms by bot id=8170384586
+2025-08-04 13:07:04,605 - WARNING - Received SIGINT signal
+2025-08-04 13:07:04,624 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:07:04,625 - INFO - Polling stopped
+2025-08-04 13:07:04,767 - WARNING - Received SIGINT signal
+2025-08-04 13:07:24,103 - INFO - Configuration loaded successfully.
+2025-08-04 13:07:24,572 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:07:24,574 - INFO - Bot is starting...
+2025-08-04 13:07:24,575 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:07:24,575 - INFO - Starting bot in polling mode...
+2025-08-04 13:07:25,100 - INFO - Start polling
+2025-08-04 13:07:25,208 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:07:31,817 - INFO - Update id=331454841 is handled. Duration 398 ms by bot id=8170384586
+2025-08-04 13:07:32,252 - INFO - Update id=331454842 is handled. Duration 155 ms by bot id=8170384586
+2025-08-04 13:07:32,849 - INFO - Update id=331454843 is handled. Duration 166 ms by bot id=8170384586
+2025-08-04 13:07:34,581 - INFO - Update id=331454844 is handled. Duration 151 ms by bot id=8170384586
+2025-08-04 13:07:51,721 - WARNING - Received SIGINT signal
+2025-08-04 13:07:51,722 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:07:51,722 - INFO - Polling stopped
+2025-08-04 13:07:51,855 - WARNING - Received SIGINT signal
+2025-08-04 13:08:00,143 - INFO - Configuration loaded successfully.
+2025-08-04 13:08:00,478 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:08:00,480 - INFO - Bot is starting...
+2025-08-04 13:08:00,480 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:08:00,481 - INFO - Starting bot in polling mode...
+2025-08-04 13:08:00,842 - INFO - Start polling
+2025-08-04 13:08:00,957 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:08:04,811 - INFO - Update id=331454845 is handled. Duration 12 ms by bot id=8170384586
+2025-08-04 13:08:09,619 - INFO - Update id=331454846 is handled. Duration 1 ms by bot id=8170384586
+2025-08-04 13:08:22,553 - WARNING - Received SIGINT signal
+2025-08-04 13:08:22,554 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:08:22,555 - INFO - Polling stopped
+2025-08-04 13:08:22,740 - WARNING - Received SIGINT signal
+2025-08-04 13:08:30,396 - INFO - Configuration loaded successfully.
+2025-08-04 13:08:30,836 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:08:30,839 - INFO - Bot is starting...
+2025-08-04 13:08:30,840 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:08:30,841 - INFO - Starting bot in polling mode...
+2025-08-04 13:08:36,434 - INFO - Start polling
+2025-08-04 13:08:36,541 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:08:39,864 - INFO - Update id=331454847 is handled. Duration 659 ms by bot id=8170384586
+2025-08-04 13:08:41,716 - INFO - Update id=331454848 is handled. Duration 2 ms by bot id=8170384586
+2025-08-04 13:09:26,727 - WARNING - Received SIGINT signal
+2025-08-04 13:09:26,728 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:09:26,728 - INFO - Polling stopped
+2025-08-04 13:09:26,881 - WARNING - Received SIGINT signal
+2025-08-04 13:09:33,936 - INFO - Configuration loaded successfully.
+2025-08-04 13:09:34,279 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:09:34,281 - INFO - Bot is starting...
+2025-08-04 13:09:34,282 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:09:34,282 - INFO - Starting bot in polling mode...
+2025-08-04 13:09:35,071 - INFO - Start polling
+2025-08-04 13:09:35,232 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:09:37,710 - INFO - Update id=331454849 is handled. Duration 437 ms by bot id=8170384586
+2025-08-04 13:09:39,035 - INFO - Update id=331454850 is handled. Duration 236 ms by bot id=8170384586
+2025-08-04 13:10:03,501 - WARNING - Received SIGINT signal
+2025-08-04 13:10:03,502 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:10:03,502 - INFO - Polling stopped
+2025-08-04 13:10:03,720 - WARNING - Received SIGINT signal
+2025-08-04 13:10:09,179 - INFO - Configuration loaded successfully.
+2025-08-04 13:10:09,590 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:10:09,592 - INFO - Bot is starting...
+2025-08-04 13:10:09,593 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:10:09,593 - INFO - Starting bot in polling mode...
+2025-08-04 13:10:15,146 - INFO - Start polling
+2025-08-04 13:10:15,353 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:10:17,388 - INFO - Update id=331454851 is handled. Duration 373 ms by bot id=8170384586
+2025-08-04 13:10:18,492 - INFO - Update id=331454852 is handled. Duration 193 ms by bot id=8170384586
+2025-08-04 13:10:20,544 - INFO - Update id=331454853 is handled. Duration 177 ms by bot id=8170384586
+2025-08-04 13:10:39,795 - WARNING - Received SIGINT signal
+2025-08-04 13:10:39,798 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:10:39,798 - INFO - Polling stopped
+2025-08-04 13:10:39,980 - WARNING - Received SIGINT signal
+2025-08-04 13:10:46,433 - INFO - Configuration loaded successfully.
+2025-08-04 13:10:46,866 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:10:46,867 - INFO - Bot is starting...
+2025-08-04 13:10:46,868 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:10:46,868 - INFO - Starting bot in polling mode...
+2025-08-04 13:10:47,827 - INFO - Start polling
+2025-08-04 13:10:48,072 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:10:50,105 - INFO - Update id=331454854 is handled. Duration 470 ms by bot id=8170384586
+2025-08-04 13:10:51,113 - INFO - Update id=331454855 is handled. Duration 190 ms by bot id=8170384586
+2025-08-04 13:10:54,978 - INFO - Update id=331454856 is handled. Duration 159 ms by bot id=8170384586
+2025-08-04 13:11:08,044 - WARNING - Received SIGINT signal
+2025-08-04 13:11:08,045 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:11:08,045 - INFO - Polling stopped
+2025-08-04 13:11:08,247 - WARNING - Received SIGINT signal
+2025-08-04 13:11:15,585 - INFO - Configuration loaded successfully.
+2025-08-04 13:11:15,920 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:11:15,921 - INFO - Bot is starting...
+2025-08-04 13:11:15,922 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:11:15,922 - INFO - Starting bot in polling mode...
+2025-08-04 13:11:16,272 - INFO - Start polling
+2025-08-04 13:11:16,386 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:11:18,705 - INFO - Update id=331454857 is handled. Duration 483 ms by bot id=8170384586
+2025-08-04 13:11:19,568 - INFO - Update id=331454858 is handled. Duration 151 ms by bot id=8170384586
+2025-08-04 13:11:21,017 - INFO - Update id=331454859 is handled. Duration 236 ms by bot id=8170384586
+2025-08-04 13:11:22,932 - INFO - Update id=331454860 is handled. Duration 149 ms by bot id=8170384586
+2025-08-04 13:11:24,173 - INFO - Update id=331454861 is handled. Duration 212 ms by bot id=8170384586
+2025-08-04 13:14:31,938 - WARNING - Received SIGINT signal
+2025-08-04 13:14:31,955 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:14:31,955 - INFO - Polling stopped
+2025-08-04 13:14:42,319 - INFO - Configuration loaded successfully.
+2025-08-04 13:14:42,811 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:14:42,813 - INFO - Bot is starting...
+2025-08-04 13:14:42,813 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:14:42,813 - INFO - Starting bot in polling mode...
+2025-08-04 13:14:48,244 - INFO - Start polling
+2025-08-04 13:14:48,454 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:14:50,096 - INFO - Update id=331454863 is handled. Duration 369 ms by bot id=8170384586
+2025-08-04 13:14:51,078 - INFO - Update id=331454864 is handled. Duration 149 ms by bot id=8170384586
+2025-08-04 13:14:52,546 - INFO - Update id=331454865 is handled. Duration 207 ms by bot id=8170384586
+2025-08-04 13:14:53,945 - INFO - Update id=331454866 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 13:14:55,662 - INFO - Update id=331454867 is handled. Duration 248 ms by bot id=8170384586
+2025-08-04 13:14:58,505 - INFO - Update id=331454868 is handled. Duration 162 ms by bot id=8170384586
+2025-08-04 13:14:59,636 - INFO - Update id=331454869 is handled. Duration 180 ms by bot id=8170384586
+2025-08-04 13:15:14,981 - INFO - Update id=331454870 is handled. Duration 218 ms by bot id=8170384586
+2025-08-04 13:15:16,109 - INFO - Update id=331454871 is handled. Duration 214 ms by bot id=8170384586
+2025-08-04 13:15:17,137 - INFO - Update id=331454872 is handled. Duration 176 ms by bot id=8170384586
+2025-08-04 13:15:43,125 - WARNING - Received SIGINT signal
+2025-08-04 13:15:43,128 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:15:43,128 - INFO - Polling stopped
+2025-08-04 13:15:43,305 - WARNING - Received SIGINT signal
+2025-08-04 13:15:51,869 - INFO - Configuration loaded successfully.
+2025-08-04 13:15:52,350 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:15:52,352 - INFO - Bot is starting...
+2025-08-04 13:15:52,352 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:15:52,352 - INFO - Starting bot in polling mode...
+2025-08-04 13:15:58,490 - INFO - Start polling
+2025-08-04 13:15:58,750 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:16:02,043 - INFO - Update id=331454874 is handled. Duration 893 ms by bot id=8170384586
+2025-08-04 13:16:04,736 - INFO - Update id=331454875 is handled. Duration 153 ms by bot id=8170384586
+2025-08-04 13:16:07,024 - INFO - Update id=331454876 is handled. Duration 163 ms by bot id=8170384586
+2025-08-04 13:16:08,522 - INFO - Update id=331454877 is handled. Duration 282 ms by bot id=8170384586
+2025-08-04 13:16:09,683 - INFO - Update id=331454878 is handled. Duration 137 ms by bot id=8170384586
+2025-08-04 13:17:19,653 - WARNING - Received SIGINT signal
+2025-08-04 13:17:19,655 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:17:19,655 - INFO - Polling stopped
+2025-08-04 13:17:19,833 - WARNING - Received SIGINT signal
+2025-08-04 13:17:28,302 - INFO - Configuration loaded successfully.
+2025-08-04 13:17:28,723 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:17:28,725 - INFO - Bot is starting...
+2025-08-04 13:17:28,726 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:17:28,726 - INFO - Starting bot in polling mode...
+2025-08-04 13:17:29,386 - INFO - Start polling
+2025-08-04 13:17:29,591 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:17:33,376 - INFO - Update id=331454879 is handled. Duration 427 ms by bot id=8170384586
+2025-08-04 13:17:34,430 - INFO - Update id=331454880 is handled. Duration 157 ms by bot id=8170384586
+2025-08-04 13:17:35,836 - INFO - Update id=331454881 is handled. Duration 165 ms by bot id=8170384586
+2025-08-04 13:17:40,684 - INFO - Update id=331454882 is handled. Duration 306 ms by bot id=8170384586
+2025-08-04 13:17:41,876 - INFO - Update id=331454883 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 13:17:50,156 - INFO - Update id=331454884 is handled. Duration 256 ms by bot id=8170384586
+2025-08-04 13:17:51,890 - INFO - Update id=331454885 is handled. Duration 182 ms by bot id=8170384586
+2025-08-04 13:18:01,328 - WARNING - Received SIGINT signal
+2025-08-04 13:18:01,331 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:18:01,331 - INFO - Polling stopped
+2025-08-04 13:18:01,572 - WARNING - Received SIGINT signal
+2025-08-04 13:18:07,279 - INFO - Configuration loaded successfully.
+2025-08-04 13:18:07,627 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:18:07,629 - INFO - Bot is starting...
+2025-08-04 13:18:07,630 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:18:07,630 - INFO - Starting bot in polling mode...
+2025-08-04 13:18:08,153 - INFO - Start polling
+2025-08-04 13:18:08,319 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:18:12,330 - INFO - Update id=331454886 is handled. Duration 807 ms by bot id=8170384586
+2025-08-04 13:18:13,325 - INFO - Update id=331454887 is handled. Duration 195 ms by bot id=8170384586
+2025-08-04 13:18:14,347 - INFO - Update id=331454888 is handled. Duration 165 ms by bot id=8170384586
+2025-08-04 13:18:17,545 - INFO - Update id=331454889 is handled. Duration 205 ms by bot id=8170384586
+2025-08-04 13:20:54,336 - WARNING - Received SIGINT signal
+2025-08-04 13:20:54,347 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:20:54,347 - INFO - Polling stopped
+2025-08-04 13:20:54,484 - WARNING - Received SIGINT signal
+2025-08-04 13:21:00,937 - INFO - Configuration loaded successfully.
+2025-08-04 13:21:01,394 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:21:01,396 - INFO - Bot is starting...
+2025-08-04 13:21:01,396 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:21:01,396 - INFO - Starting bot in polling mode...
+2025-08-04 13:21:06,832 - INFO - Start polling
+2025-08-04 13:21:06,940 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:21:09,435 - INFO - Update id=331454890 is handled. Duration 467 ms by bot id=8170384586
+2025-08-04 13:21:10,803 - INFO - Update id=331454891 is handled. Duration 242 ms by bot id=8170384586
+2025-08-04 13:21:12,191 - INFO - Update id=331454892 is handled. Duration 131 ms by bot id=8170384586
+2025-08-04 13:21:21,311 - INFO - Update id=331454893 is handled. Duration 209 ms by bot id=8170384586
+2025-08-04 13:21:37,145 - WARNING - Received SIGINT signal
+2025-08-04 13:21:37,146 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:21:37,146 - INFO - Polling stopped
+2025-08-04 13:21:37,326 - WARNING - Received SIGINT signal
+2025-08-04 13:21:43,570 - INFO - Configuration loaded successfully.
+2025-08-04 13:21:44,023 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:21:44,025 - INFO - Bot is starting...
+2025-08-04 13:21:44,025 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:21:44,025 - INFO - Starting bot in polling mode...
+2025-08-04 13:21:49,515 - INFO - Start polling
+2025-08-04 13:21:49,719 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:21:51,475 - INFO - Update id=331454894 is handled. Duration 467 ms by bot id=8170384586
+2025-08-04 13:21:52,502 - INFO - Update id=331454895 is handled. Duration 218 ms by bot id=8170384586
+2025-08-04 13:21:53,715 - INFO - Update id=331454896 is handled. Duration 193 ms by bot id=8170384586
+2025-08-04 13:21:55,162 - INFO - Update id=331454897 is handled. Duration 159 ms by bot id=8170384586
+2025-08-04 13:21:58,432 - INFO - Update id=331454898 is handled. Duration 177 ms by bot id=8170384586
+2025-08-04 13:22:00,690 - INFO - Update id=331454899 is handled. Duration 137 ms by bot id=8170384586
+2025-08-04 13:22:25,505 - WARNING - Received SIGINT signal
+2025-08-04 13:22:25,506 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:22:25,506 - INFO - Polling stopped
+2025-08-04 13:22:25,683 - WARNING - Received SIGINT signal
+2025-08-04 13:22:36,523 - INFO - Configuration loaded successfully.
+2025-08-04 13:22:36,855 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:22:36,856 - INFO - Bot is starting...
+2025-08-04 13:22:36,857 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:22:36,857 - INFO - Starting bot in polling mode...
+2025-08-04 13:22:37,244 - INFO - Start polling
+2025-08-04 13:22:37,439 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:22:40,150 - INFO - Update id=331454900 is handled. Duration 514 ms by bot id=8170384586
+2025-08-04 13:22:41,070 - INFO - Update id=331454901 is handled. Duration 147 ms by bot id=8170384586
+2025-08-04 13:22:42,168 - INFO - Update id=331454902 is handled. Duration 153 ms by bot id=8170384586
+2025-08-04 13:22:43,315 - INFO - Update id=331454903 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 13:22:46,448 - INFO - Update id=331454904 is handled. Duration 250 ms by bot id=8170384586
+2025-08-04 13:22:56,004 - INFO - Update id=331454905 is handled. Duration 178 ms by bot id=8170384586
+2025-08-04 13:23:00,783 - INFO - Update id=331454906 is handled. Duration 203 ms by bot id=8170384586
+2025-08-04 13:23:03,483 - INFO - Update id=331454907 is handled. Duration 215 ms by bot id=8170384586
+2025-08-04 13:23:04,860 - INFO - Update id=331454908 is handled. Duration 170 ms by bot id=8170384586
+2025-08-04 13:23:06,209 - INFO - Update id=331454909 is handled. Duration 154 ms by bot id=8170384586
+2025-08-04 13:23:08,873 - INFO - Update id=331454910 is handled. Duration 195 ms by bot id=8170384586
+2025-08-04 13:23:09,850 - INFO - Update id=331454911 is handled. Duration 155 ms by bot id=8170384586
+2025-08-04 13:23:13,340 - INFO - Update id=331454912 is handled. Duration 195 ms by bot id=8170384586
+2025-08-04 13:23:16,301 - INFO - Update id=331454913 is handled. Duration 394 ms by bot id=8170384586
+2025-08-04 13:23:18,355 - INFO - Update id=331454914 is handled. Duration 160 ms by bot id=8170384586
+2025-08-04 13:23:19,157 - INFO - Update id=331454915 is handled. Duration 147 ms by bot id=8170384586
+2025-08-04 13:26:03,607 - WARNING - Received SIGINT signal
+2025-08-04 13:26:03,611 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:26:03,611 - INFO - Polling stopped
+2025-08-04 13:26:03,774 - WARNING - Received SIGINT signal
+2025-08-04 13:26:10,519 - INFO - Configuration loaded successfully.
+2025-08-04 13:26:10,942 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:26:10,944 - INFO - Bot is starting...
+2025-08-04 13:26:10,945 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:26:10,945 - INFO - Starting bot in polling mode...
+2025-08-04 13:26:11,403 - INFO - Start polling
+2025-08-04 13:26:11,606 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:26:14,146 - INFO - Update id=331454916 is handled. Duration 564 ms by bot id=8170384586
+2025-08-04 13:26:15,303 - INFO - Update id=331454917 is handled. Duration 146 ms by bot id=8170384586
+2025-08-04 13:26:18,009 - INFO - Update id=331454918 is handled. Duration 202 ms by bot id=8170384586
+2025-08-04 13:26:20,529 - INFO - Update id=331454919 is handled. Duration 371 ms by bot id=8170384586
+2025-08-04 13:26:23,003 - INFO - Update id=331454920 is handled. Duration 190 ms by bot id=8170384586
+2025-08-04 13:27:11,447 - WARNING - Received SIGINT signal
+2025-08-04 13:27:11,448 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:27:11,448 - INFO - Polling stopped
+2025-08-04 13:27:11,607 - WARNING - Received SIGINT signal
+2025-08-04 13:27:17,890 - INFO - Configuration loaded successfully.
+2025-08-04 13:27:18,214 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:27:18,216 - INFO - Bot is starting...
+2025-08-04 13:27:18,217 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:27:18,217 - INFO - Starting bot in polling mode...
+2025-08-04 13:27:18,861 - INFO - Start polling
+2025-08-04 13:27:18,981 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:27:21,161 - INFO - Update id=331454921 is handled. Duration 403 ms by bot id=8170384586
+2025-08-04 13:27:22,214 - INFO - Update id=331454922 is handled. Duration 168 ms by bot id=8170384586
+2025-08-04 13:27:25,516 - INFO - Update id=331454923 is handled. Duration 179 ms by bot id=8170384586
+2025-08-04 13:27:28,255 - INFO - Update id=331454924 is handled. Duration 407 ms by bot id=8170384586
+2025-08-04 13:27:29,583 - INFO - Update id=331454925 is handled. Duration 266 ms by bot id=8170384586
+2025-08-04 13:27:47,715 - INFO - Update id=331454926 is handled. Duration 210 ms by bot id=8170384586
+2025-08-04 13:27:52,169 - INFO - Update id=331454927 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 13:27:55,230 - INFO - Update id=331454928 is handled. Duration 243 ms by bot id=8170384586
+2025-08-04 13:27:58,868 - INFO - Update id=331454929 is handled. Duration 183 ms by bot id=8170384586
+2025-08-04 13:36:33,287 - WARNING - Received SIGINT signal
+2025-08-04 13:36:33,300 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:36:33,300 - INFO - Polling stopped
+2025-08-04 13:36:33,384 - WARNING - Received SIGINT signal
+2025-08-04 13:36:44,530 - INFO - Configuration loaded successfully.
+2025-08-04 13:36:45,175 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:36:45,186 - INFO - Bot is starting...
+2025-08-04 13:36:45,189 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:36:45,191 - INFO - Starting bot in polling mode...
+2025-08-04 13:36:50,912 - INFO - Start polling
+2025-08-04 13:36:51,021 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:36:53,757 - INFO - Update id=331454930 is handled. Duration 454 ms by bot id=8170384586
+2025-08-04 13:36:54,979 - INFO - Update id=331454931 is handled. Duration 347 ms by bot id=8170384586
+2025-08-04 13:37:02,716 - INFO - Update id=331454932 is handled. Duration 304 ms by bot id=8170384586
+2025-08-04 13:37:06,468 - INFO - Update id=331454933 is handled. Duration 166 ms by bot id=8170384586
+2025-08-04 13:37:10,909 - INFO - Update id=331454934 is handled. Duration 205 ms by bot id=8170384586
+2025-08-04 13:37:14,470 - INFO - Update id=331454935 is handled. Duration 205 ms by bot id=8170384586
+2025-08-04 13:37:23,566 - INFO - Update id=331454936 is handled. Duration 178 ms by bot id=8170384586
+2025-08-04 13:53:52,469 - INFO - Configuration loaded successfully.
+2025-08-04 13:53:52,911 - INFO - Bot and Dispatcher initialized successfully.
+2025-08-04 13:53:52,913 - INFO - Bot is starting...
+2025-08-04 13:53:52,914 - INFO - Bot is running in POLLING mode.
+2025-08-04 13:53:52,914 - INFO - Starting bot in polling mode...
+2025-08-04 13:53:58,269 - INFO - Start polling
+2025-08-04 13:53:58,379 - INFO - Run polling for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:54:01,866 - INFO - Update id=331454937 is handled. Duration 403 ms by bot id=8170384586
+2025-08-04 13:54:03,077 - INFO - Update id=331454938 is handled. Duration 177 ms by bot id=8170384586
+2025-08-04 13:54:08,253 - INFO - Update id=331454939 is handled. Duration 166 ms by bot id=8170384586
+2025-08-04 13:54:13,119 - INFO - Update id=331454940 is handled. Duration 178 ms by bot id=8170384586
+2025-08-04 13:54:16,052 - INFO - Update id=331454941 is handled. Duration 151 ms by bot id=8170384586
+2025-08-04 13:54:20,848 - INFO - Update id=331454942 is handled. Duration 232 ms by bot id=8170384586
+2025-08-04 13:54:39,351 - INFO - Update id=331454943 is handled. Duration 196 ms by bot id=8170384586
+2025-08-04 13:54:43,944 - INFO - Update id=331454944 is handled. Duration 356 ms by bot id=8170384586
+2025-08-04 13:54:45,703 - INFO - Update id=331454945 is handled. Duration 169 ms by bot id=8170384586
+2025-08-04 13:54:46,671 - INFO - Update id=331454946 is handled. Duration 143 ms by bot id=8170384586
+2025-08-04 13:54:47,462 - INFO - Update id=331454947 is handled. Duration 159 ms by bot id=8170384586
+2025-08-04 13:54:51,816 - INFO - Update id=331454948 is handled. Duration 580 ms by bot id=8170384586
+2025-08-04 13:54:54,922 - WARNING - Received SIGINT signal
+2025-08-04 13:54:54,923 - INFO - Polling stopped for bot @waterasdbot id=8170384586 - 'Water'
+2025-08-04 13:54:54,923 - INFO - Polling stopped
+2025-08-04 13:54:55,102 - WARNING - Received SIGINT signal
