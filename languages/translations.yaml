@@ -1,47 +1,209 @@
 uz:
-  start_message: "🎓 <b>Think Well Taʼlim Markaziga Xush Kelibsiz!</b> 🌟\n\n📚 <i>Kelajagingiz uchun eng yaxshi sarmoya — bilim!</i> Quyida oʻzingizga qulay tilni tanlang va taʼlim sayohatingizni boshlang! 🚀 👇"
-  main_message: "🏠 <b>Asosiy Menyu</b> 📋\nIltimos, kerakli boʻlimni tanlang:"
-  first_name_message: "Iltimos, ismingizni kiriting:"
-  last_name_message: "Iltimos, familiyangizni kiriting:"
-  age_message: "Iltimos, yoshingizni kiriting:"
-  phone_number_message: "M"
+  start_message: "🎓 <b>Smart English Markaziga Xush Kelibsiz!</b> 🌟\n\n📚 <i>Kelajagingiz uchun eng yaxshi sarmoya — bilim!</i>\n\n👇 Quyida oʻzingizga qulay tilni tanlang va taʼlim sayohatingizni boshlang!"
+  about_us_message: |
+    ☀️ <b>Smart English</b> — 2016-yilda Akmaljon Xusanov tomonidan asos solingan va bugun 
+    Andijon viloyati <i>Marhamat tumanidagi eng yirik</i> ingliz tili markazlaridan biridir. 📚✨
+
+    🏢 Markaz boshqa ta’lim maskanlaridan <b>innovatsion metodika</b> va 
+    <i>o‘ziga xos yondashuvi</i> bilan ajralib turadi. 🔑 
+    Bugungi kunda bizda — <b>Marhamatda 3 ta</b> va <b>Andijon shahrida 1 ta</b> filial faoliyat yuritadi. 
+    Shu kungacha ~ <b>6 mingdan ortiq o‘quvchi</b> ingliz tili bo‘yicha bilim olgan. 👩‍🎓👨‍🎓
+
+    🔥 Eng asosiysi, Smart English’da siz nafaqat mahalliy mutaxassislar bilan, balki 
+    <b>xorijiy tajribali ustozlar</b>dan ham ta’lim olishingiz mumkin:
+    🇺🇸 Julie R. Hollon (AQSH)
+    🇨🇦 Christian Bonk (Kanada)
+    🇸🇪 Amina Slimani (Shvetsiya)
+
+    ✈️ Ularning yordami bilan ingliz tilini <b>IELTS 7.0+</b> darajasigacha yetkazish imkoniyati mavjud! 🚀
+
+    💡 <b>Smart English — kelajagingizga eng to‘g‘ri investitsiya!</b>
+  contact_us: |
+    📢 <b>Smart English</b> o‘quv markaziga quyidagi manzillar orqali murojaat qilishingiz mumkin! 👇  
+
+    🏢 <u><b>Filiallarimiz:</b></u>  
+
+    1️⃣ <b>Andijon</b>  
+    📍 Andijon shahri, Yangi Bozor hududi, Buyuk Turon ko‘chasi, 28-uy  
+    ☎️ Tel: <a href="tel:+998974731816">+998 97 473 18 16</a>  
+    🔗 <a href="https://bit.ly/smart_english_andijon_location">Manzilni ko‘rish</a>  
+
+    2️⃣ <b>Marhamat</b>  
+    📍 Marhamat shahri, Ipak yo‘li ko‘chasi, 76-uy  
+    ☎️ Tel: <a href="tel:+998994321816">+998 99 432 18 16</a>  
+    🔗 <a href="https://bit.ly/smart_english_marhamat_location">Manzilni ko‘rish</a>  
+
+    🌐 Bizni ijtimoiy tarmoqlarda topish juda oson! 👇  
+    🔁 <a href="https://taplink.cc/smart.english.official">Taplink sahifamiz</a>  
+
+    📸 Yoki ushbu <b>🔳 QR-kod</b>ni skaner qiling!  
+
+  main_message: "🏠 <b>Asosiy Menyu</b> 📋\n\nIltimos, kerakli boʻlimni tanlang 👇"
+  first_name_message: "✍️ Iltimos, <b>ismingizni</b> kiriting:"
+  last_name_message: "✍️ Iltimos, <b>familiyangizni</b> kiriting:"
+  age_message: "🎂 Iltimos, <b>yoshingizni</b> kiriting:"
+  phone_number_message: "📞 Iltimos, <b>telefon raqamingizni</b> kiriting yoki quyidagi tugma orqali yuboring:"
+  address_message: "📍 Iltimos, <b>manzilingizni</b> kiriting:"
+  course_message: "📚 Qaysi kursni tanlamoqchisiz? 👇"
+  level_message: "🚀 Iltimos, o‘zingizning <b>Ingliz tili darajangizni</b> tanlang:"
+  time_message: "⏰ Sizga qaysi vaqt qulay? Quyidagilardan birini tanlang 👇"
+  approved_message: "✅ <b>Tabriklaymiz!</b> Sizning maʼlumotlaringiz qabul qilindi 🎉\n\n📩 Administrator siz bilan tez orada bogʻlanadi."
   buttons:
-    register_button: "📌 Roʻyxatdan Oʻtish"
-    courses_offered: "📚 Kurslarimiz"
-    pricing_button: "💰 Narxlar va Rejalar"
+    register_button: "📌 Roʻyxatdan oʻtish"
+    about_us: "📚 Biz haqimizda"
+    results_button: "🚀 Natijalarimiz"
     contact_us_button: "📞 Aloqa"
     settings_button: "⚙️ Sozlamalar"
     back_button: "🔙 Ortga"
-    phone_number_button: "n"
+    phone_number_button: "📱 Telefon raqamni yuborish"
+    english_button: "🇬🇧 Ingliz Tili"
+    it_button: "💻 IT Kurslari"
+    elementary_button: "📘 Elementary"
+    beginner_button: "📗 Beginner"
+    intermediate_button: "📙 Intermediate"
+    upper_intermediate_button: "📕 Upper-Intermediate"
+    advanced_button: "📓 Advanced"
+    exam_results: "🏆 OLIMPIADA JAVOBLARI"
 
 en:
-  start_message: "🎓 <b>Welcome to Think Well Education Center!</b> 🌟\n\n📚 <i>Invest in your future with knowledge!</i> Please select your preferred language below to embark on your learning journey. 🚀 👇"
-  main_message: "🏠 <b>Main Menu</b> 📋\nPlease select an option:"
-  first_name_message: "Please enter your first name:"
-  last_name_message: "Please enter your last name:"
-  age_message: "Please enter your age:"
-  phone_number_message: "M"
+  start_message: |
+    🎓 <b>Welcome to Smart English!</b> 🌟  
+    📚 <i>The best investment in your future is knowledge!</i>  
+
+    🇺🇿 <b>Smart English Markaziga Xush Kelibsiz!</b> 🌟  
+    📚 <i>Kelajagingiz uchun eng yaxshi sarmoya — bilim!</i>  
+
+    🇷🇺 <b>Добро пожаловать в Smart English!</b> 🌟  
+    📚 <i>Лучшая инвестиция в будущее — это знания!</i>  
+
+    👇 Please select your preferred language / Iltimos, qulay tilni tanlang / Пожалуйста, выберите язык 👇 🚀
+  about_us_message: |
+    ☀️ <b>Smart English</b> — founded in 2016 by Akmaljon Khusanov, today stands as the 
+    <i>largest English learning center in Marhamat district</i>, Andijan region. 📚✨
+
+    🏢 What makes Smart English unique is its <b>innovative teaching methods</b> 
+    and <i>distinctive approach</i>. 🔑 
+    Currently, we operate <b>3 branches in Marhamat</b> and <b>1 branch in Andijan city</b>. 
+    So far, over <b>6,000 students</b> have studied English with us. 👩‍🎓👨‍🎓
+
+    🔥 Most importantly, at Smart English you can learn not only from local specialists, 
+    but also from <b>international experienced teachers</b>:
+    🇺🇸 Julie R. Hollon (USA)
+    🇨🇦 Christian Bonk (Canada)
+    🇸🇪 Amina Slimani (Sweden)
+
+    ✈️ With their guidance, you can reach up to <b>IELTS 7.0+</b> level! 🚀
+
+    💡 <b>Smart English — the smartest investment in your future!</b>
+
+  contact_us: |
+    📢 You can contact <b>Smart English</b> at the following addresses! 👇  
+
+    🏢 <u><b>Our Branches:</b></u>  
+
+    1️⃣ <b>Andijan</b>  
+    📍 Andijan city, Yangi Bozor district, Buyuk Turon street, 28  
+    ☎️ Phone: <a href="tel:+998974731816">+998 97 473 18 16</a>  
+    🔗 <a href="https://bit.ly/smart_english_andijon_location">View on map</a>  
+
+    2️⃣ <b>Marhamat</b>  
+    📍 Marhamat city, Ipak Yuli street, 76  
+    ☎️ Phone: <a href="tel:+998994321816">+998 99 432 18 16</a>  
+    🔗 <a href="https://bit.ly/smart_english_marhamat_location">View on map</a>  
+
+    🌐 You can also easily find us on social media! 👇  
+    🔁 <a href="https://taplink.cc/smart.english.official">Our Taplink page</a>  
+
+    📸 Or simply scan this <b>🔳 QR code</b>!  
+  main_message: "🏠 <b>Main Menu</b> 📋\n\nPlease select an option 👇"
+  first_name_message: "✍️ Please enter your <b>first name</b>:"
+  last_name_message: "✍️ Please enter your <b>last name</b>:"
+  age_message: "🎂 Please enter your <b>age</b>:"
+  phone_number_message: "📞 Please enter your <b>phone number</b> or share it using the button below:"
+  address_message: "📍 Please enter your <b>address</b>:"
+  course_message: "📚 Which course would you like to choose? 👇"
+  level_message: "🚀 Please select your <b>English level</b>:"
+  time_message: "⏰ Which time suits you best? Please choose below 👇"
+  approved_message: "✅ <b>Congratulations!</b> Your information has been received 🎉\n\n📩 Our admin will contact you shortly."
   buttons:
     register_button: "📌 Register Now"
-    courses_offered: "📚 Our Courses"
-    pricing_button: "💰 Pricing & Plans"
+    about_us: "📚 About Us"
+    results_button: "🚀 Our Results"
     contact_us_button: "📞 Contact Us"
     settings_button: "⚙️ Settings"
     back_button: "🔙 Back"
-    phone_number_button: "n"
+    phone_number_button: "📱 Share Phone Number"
+    english_button: "🇬🇧 English"
+    it_button: "💻 IT Courses"
+    elementary_button: "📘 Elementary"
+    beginner_button: "📗 Beginner"
+    intermediate_button: "📙 Intermediate"
+    upper_intermediate_button: "📕 Upper-Intermediate"
+    advanced_button: "📓 Advanced"
+    exam_results: "🏆 OLYMPIAD RESULTS"
 
 ru:
-  start_message: "🎓 <b>Добро пожаловать в образовательный центр Think Well!</b> 🌟\n\n📚 <i>Инвестируйте в своё будущее с помощью знаний!</i> Пожалуйста, выберите удобный язык ниже, чтобы начать своё обучение. 🚀 👇"
-  main_message: "🏠 <b>Главное меню</b> 📋\nПожалуйста, выберите раздел:"
-  first_name_message: "Пожалуйста, введите ваше имя:"
-  last_name_message: "Пожалуйста, введите вашу фамилию:"
-  age_message: "Пожалуйста, введите ваш возраст:"
-  phone_number_message: "M"
+  start_message: "🎓 <b>Добро пожаловать в Smart English!</b> 🌟\n\n📚 <i>Лучшая инвестиция в будущее — это знания!</i>\n\n👇 Пожалуйста, выберите удобный язык и начните обучение 🚀"
+  about_us_message: |
+    ☀️ <b>Smart English</b> — основан в 2016 году Акмалжоном Хусановым и сегодня является 
+    <i>крупнейшим центром изучения английского языка</i> в Мархамате, Андижанской области. 📚✨
+
+    🏢 Центр отличается от других именно своей <b>инновационной методикой</b> 
+    и <i>уникальным подходом</i>. 🔑 
+    На сегодняшний день у нас есть <b>3 филиала в Мархамате</b> и <b>1 филиал в Андижане</b>. 
+    Более <b>6 тысяч студентов</b> уже изучали английский язык с нами. 👩‍🎓👨‍🎓
+
+    🔥 Самое главное — в Smart English вы можете учиться не только у местных специалистов, 
+    но и у <b>опытных иностранных преподавателей</b>:
+    🇺🇸 Джули Р. Холлон (США)
+    🇨🇦 Кристиан Бонк (Канада)
+    🇸🇪 Амина Слимани (Швеция)
+
+    ✈️ С их помощью вы можете достичь уровня <b>IELTS 7.0+</b>! 🚀
+
+    💡 <b>Smart English — это лучшая инвестиция в ваше будущее!</b>
+  contact_us: |
+    📢 Вы можете связаться с учебным центром <b>Smart English</b> по следующим адресам! 👇  
+
+    🏢 <u><b>Наши филиалы:</b></u>  
+
+    1️⃣ <b>Андижан</b>  
+    📍 г. Андижан, район Янгибазар, ул. Буюк Турон, дом 28  
+    ☎️ Тел: <a href="tel:+998974731816">+998 97 473 18 16</a>  
+    🔗 <a href="https://bit.ly/smart_english_andijon_location">Открыть на карте</a>  
+
+    2️⃣ <b>Мархамат</b>  
+    📍 г. Мархамат, ул. Ипак йули, дом 76  
+    ☎️ Тел: <a href="tel:+998994321816">+998 99 432 18 16</a>  
+    🔗 <a href="https://bit.ly/smart_english_marhamat_location">Открыть на карте</a>  
+
+    🌐 Найти нас в соцсетях очень просто! 👇  
+    🔁 <a href="https://taplink.cc/smart.english.official">Наша страница Taplink</a>  
+
+    📸 Или просто отсканируйте <b>🔳 QR-код</b>! 
+  main_message: "🏠 <b>Главное меню</b> 📋\n\nПожалуйста, выберите раздел 👇"
+  first_name_message: "✍️ Пожалуйста, введите ваше <b>имя</b>:"
+  last_name_message: "✍️ Пожалуйста, введите вашу <b>фамилию</b>:"
+  age_message: "🎂 Пожалуйста, введите ваш <b>возраст</b>:"
+  phone_number_message: "📞 Пожалуйста, введите ваш <b>номер телефона</b> или отправьте его кнопкой ниже:"
+  address_message: "📍 Пожалуйста, введите ваш <b>адрес</b>:"
+  course_message: "📚 Какой курс вы хотите выбрать? 👇"
+  level_message: "🚀 Пожалуйста, выберите ваш <b>уровень английского</b>:"
+  time_message: "⏰ Какое время вам подходит? Выберите ниже 👇"
+  approved_message: "✅ <b>Поздравляем!</b> Ваша информация принята 🎉\n\n📩 Администратор свяжется с вами в ближайшее время."
   buttons:
     register_button: "📌 Зарегистрироваться"
-    courses_offered: "📚 Наши курсы"
-    pricing_button: "💰 Цены и планы"
+    about_us: "📚 О нас"
+    results_button: "🚀 Наши результаты"
     contact_us_button: "📞 Связаться с нами"
     settings_button: "⚙️ Настройки"
     back_button: "🔙 Назад"
-    phone_number_button: "n"
+    phone_number_button: "📱 Отправить номер телефона"
+    english_button: "🇬🇧 Английский язык"
+    it_button: "💻 IT Курсы"
+    elementary_button: "📘 Elementary"
+    beginner_button: "📗 Beginner"
+    intermediate_button: "📙 Intermediate"
+    upper_intermediate_button: "📕 Upper-Intermediate"
+    advanced_button: "📓 Advanced"
+    exam_results: "🏆 РЕЗУЛЬТАТЫ ОЛИМПИАДЫ"

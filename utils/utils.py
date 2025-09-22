@@ -117,3 +117,39 @@ def set_student_address(user_id: int, address: str):
             db.commit()
     finally:
         db.close()
+
+
+def set_student_course(user_id: int, course: str):
+    try: 
+        db = SessionLocal()
+        student = db.query(Student).filter(Student.telegram_user_id == user_id).first()
+
+        if student:
+            student.course = course
+            db.commit()
+    finally:
+        db.close()
+
+def set_student_level(user_id: int, level: str):
+    try: 
+        db = SessionLocal()
+        student = db.query(Student).filter(Student.telegram_user_id == user_id).first()
+
+        if student:
+            student.level = level
+            db.commit()
+    finally:
+        db.close()
+
+
+def set_student_time(user_id: int, time: str):
+    try: 
+        db = SessionLocal()
+        student = db.query(Student).filter(Student.telegram_user_id == user_id).first()
+
+        if student:
+            student.time = time
+            db.commit()
+    finally:
+        db.close()
+    

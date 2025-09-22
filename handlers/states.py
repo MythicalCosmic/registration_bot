@@ -9,3 +9,6 @@ class UserStates(StatesGroup):
     age = State()
     phone_number = State()
     address = State()
+    course = State()
+    level = State()
+    time = State()
