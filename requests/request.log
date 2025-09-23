@@ -3649,3 +3649,46 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: messa
 2025-09-23 01:30:14,504 - INFO - Polling stopped for bot @smart_english_support_bot id=7643941969 - 'Smart English Bot'
 2025-09-23 01:30:14,505 - INFO - Polling stopped
 2025-09-23 01:30:14,665 - WARNING - Received SIGINT signal
+2025-09-23 07:17:53,377 - INFO - Configuration loaded successfully.
+2025-09-23 07:17:54,361 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:17:54,363 - INFO - Bot is starting...
+2025-09-23 07:17:54,363 - INFO - Bot is running in WEBHOOK mode.
+2025-09-23 07:17:54,363 - INFO - Starting bot in webhook mode...
+2025-09-23 07:17:54,996 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x70813b2cd400>
+2025-09-23 07:17:54,996 - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x70813b2866f0>, 16701.472348329)])']
+connector: <aiohttp.connector.TCPConnector object at 0x70813b2cd010>
+2025-09-23 07:18:25,265 - INFO - Configuration loaded successfully.
+2025-09-23 07:18:26,306 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:18:26,308 - INFO - Bot is starting...
+2025-09-23 07:18:26,309 - INFO - Bot is running in WEBHOOK mode.
+2025-09-23 07:18:26,309 - INFO - Starting bot in webhook mode...
+2025-09-23 07:18:26,874 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x75a995375400>
+2025-09-23 07:18:26,874 - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x75a995456690>, 16733.335035031)])']
+connector: <aiohttp.connector.TCPConnector object at 0x75a995375010>
+2025-09-23 07:19:20,579 - INFO - Configuration loaded successfully.
+2025-09-23 07:19:21,078 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:19:49,495 - INFO - Configuration loaded successfully.
+2025-09-23 07:19:49,875 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:21:00,843 - INFO - Configuration loaded successfully.
+2025-09-23 07:21:02,223 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:21:02,226 - INFO - Bot is starting...
+2025-09-23 07:21:02,228 - INFO - Bot is running in WEBHOOK mode.
+2025-09-23 07:21:02,228 - INFO - Starting bot in webhook mode...
+2025-09-23 07:21:02,443 - ERROR - Ошибка при запуске webhook: [Errno 2] No such file or directory
+2025-09-23 07:21:55,119 - INFO - Configuration loaded successfully.
+2025-09-23 07:21:55,581 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:21:55,583 - INFO - Bot is starting...
+2025-09-23 07:21:55,584 - INFO - Bot is running in WEBHOOK mode.
+2025-09-23 07:21:55,584 - INFO - Starting bot in webhook mode...
+2025-09-23 07:21:56,192 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7797ae225400>
+2025-09-23 07:21:56,192 - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7797ae628a10>, 16942.7054817)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7797ae225010>
+2025-09-23 07:22:37,394 - INFO - Configuration loaded successfully.
+2025-09-23 07:22:37,787 - INFO - Bot and Dispatcher initialized successfully.
+2025-09-23 07:22:37,789 - INFO - Starting in WEBHOOK mode.
